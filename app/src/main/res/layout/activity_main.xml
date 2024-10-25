@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:text="點餐:"
+        android:text="點飲料:"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="@id/btn_choice"
         app:layout_constraintStart_toStartOf="parent"
